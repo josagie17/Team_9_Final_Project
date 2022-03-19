@@ -9,7 +9,7 @@ Reason the topic was selected:
 - The dataset has a good mix of continuouss and categorical data.
 - There are multiple variables realed to each other which makes it suitable for a machine learning model.
 
-Description of the source of data: The dataset was retreived from Kaggle and was out together through web scraping.
+Description of the source of data: The dataset was retreived from Kaggle and was put together through web scraping.
 
 Questions the team hopes to answer: 
 The team is currently exploring different questions the data can answer. Some of our options include;
