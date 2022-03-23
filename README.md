@@ -1,14 +1,18 @@
-# Team_9_Final_Project
+#Overview of the Project
 
-Questions to answer :
+Selected Topic: Unicorn Companies (A startup company with a valuation of above $1 billion)
 
-* Selected topic - Unicorn Companies Dataset
+Reason the topic was selected: 
+- The dataset is relative in the current economic environment, as there is an increasing amount os startups opearting in niche markets with most of them turning out to be unsuccessful. This study will help startups understand what variables are important to them being ssuccessful and achieving a viable unique projected value.
+- The dataset has a good mix of continuouss and categorical data.
+- There are multiple variables realed to each other which makes it suitable for a machine learning model.
 
-* Reason the topic was selected - Unicorn companies are companies that have a valuation of at least 1B .The relativity of the dataset in the current economic climate and the unique projected value of these companies makes this project interesting. The dataset also has good mix of continuous and categorical data . 
+Description of the source of data: The dataset was retreived from Kaggle and was put together through web scraping.
 
-* Description of the source of data - Kaggle
+Questions the team hopes to answer: 
+The team is currently exploring different questions the data can answer. Some of our options include;
+- Likelihood that a company that has a projected value of at least 1B will achieve acquisition.
+- Whether the investors count affects the valuation of the company.
+- If the total raised affects the valuation of the company.
 
-* Questions the team hopes to answer with the data - To establish the relationship between the country of origin,industry and the time it takes for a company to raise enough capital to be considered a Unicorn company
-
-* Description of the data exploration phase of the project- We reviewed multiple possible data sets and landed on this one after checking the steps used to preprocess the data. As the project progresses the plan is to incorporate other datasets with similar characteristics and compare the trajecory of non Unicorns.
-
+We hope that the machine learning model will extract ineresting relationships or questions that the dataset can answer.
